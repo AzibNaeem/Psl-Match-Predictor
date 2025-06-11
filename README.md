@@ -1,5 +1,5 @@
 # 🏏 PSL Match Predictor
-
+ 
 Welcome to the **PSL Match Predictor**, a 🔥 data-driven tool to forecast Pakistan Super League (PSL) match outcomes with style and precision! Powered by machine learning, this project analyzes **10 seasons of PSL data (2016–2025)** to predict who’ll dominate the pitch.
 
 Whether you’re a cricket fanatic, a data geek, or just love cool tech, this repo has something for you! 🎉
